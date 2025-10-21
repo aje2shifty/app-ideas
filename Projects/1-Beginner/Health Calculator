@@ -1,0 +1,31 @@
+BMI Health Calculator
+
+User can input their height (in either meters + cm or feet + inches) and weight (kg or lb)
+
+User taps “Calculate” and sees their BMI displayed (with one decimal place)
+
+User sees which category their BMI falls into (e.g., < 18.5 underweight; 18.5-24.9 healthy; 25-29.9 overweight; ≥ 30 obese) 
+Healthline
++3
+Cleveland Clinic
++3
+Saint Luke's Health System
++3
+
+User can copy the BMI value and category to clipboard/share (for example via a “Share result” button)
+
+Bonus features
+
+User can toggle between metric (kg + m) and imperial (lb + in) units
+
+User can view a history of past BMI calculations (with date/time)
+
+User can add height/weight entries for tracking over time and see a simple chart of BMI trend
+
+
+Useful links and resources:
+https://www.cdc.gov/bmi/about/index.html?utm_source=chatgpt.com
+https://my.clevelandclinic.org/health/articles/9464-body-mass-index-bmi?utm_source=chatgpt.com
+
+Example Projects:
+BMI Web calculator app
